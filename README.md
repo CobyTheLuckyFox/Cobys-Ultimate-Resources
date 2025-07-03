@@ -7,3 +7,5 @@ VanillaTweaks
 Bedrock Slot Highlight - blockerlocker
 
 Roses - Can't find who made the roses pack that I use :(
+
+Even Better Enchants - mythitorium
